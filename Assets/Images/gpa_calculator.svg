@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.673" height="34.457" viewBox="0 0 36.673 34.457">
+  <g id="gpa_calculator" transform="translate(-984.852 -698.216)">
+    <rect id="Rectangle_32" data-name="Rectangle 32" width="26.805" height="30.156" rx="3.351" transform="translate(985.352 698.716)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle_33" data-name="Rectangle 33" width="13.402" height="5.026" rx="1.675" transform="translate(992.053 705.417)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_78" data-name="Line 78" x2="3.362" transform="translate(990.339 717.144)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_79" data-name="Line 79" x2="3.362" transform="translate(997.073 717.161)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_80" data-name="Line 80" x2="3.362" transform="translate(997.073 717.161)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_81" data-name="Line 81" x2="3.362" transform="translate(1003.774 717.069)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_82" data-name="Line 82" x2="3.362" transform="translate(990.339 722.17)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_83" data-name="Line 83" x2="3.362" transform="translate(997.073 722.187)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_84" data-name="Line 84" x2="3.362" transform="translate(1003.774 722.094)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="Ellipse_13" data-name="Ellipse 13" cx="10.125" cy="10.125" r="10.125" transform="translate(1000.774 711.923)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <text id="GPA" transform="translate(1002.773 724.771)" fill="#1e70b9" font-size="8" font-family="Gilroy-ExtraBold, Gilroy ☞" font-weight="800"><tspan x="0" y="0">GPA</tspan></text>
+  </g>
+</svg>

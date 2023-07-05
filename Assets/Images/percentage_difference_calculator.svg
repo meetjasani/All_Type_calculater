@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.673" height="34.457" viewBox="0 0 36.673 34.457">
+  <g id="percentage_difference" transform="translate(-807.664 -605.2)">
+    <rect id="Rectangle_48" data-name="Rectangle 48" width="26.805" height="30.156" rx="3.351" transform="translate(808.164 605.7)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_31" data-name="Path 31" d="M32.8,429.949H43.368a1.72,1.72,0,0,1,1.762,1.676V433.3a1.72,1.72,0,0,1-1.762,1.675H32.8A1.72,1.72,0,0,1,31.04,433.3v-1.675A1.72,1.72,0,0,1,32.8,429.949Z" transform="translate(783.138 184.452)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_101" data-name="Line 101" x2="3.362" transform="translate(826.586 624.053)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_102" data-name="Line 102" x2="3.362" transform="translate(826.586 629.079)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="Ellipse_22" data-name="Ellipse 22" cx="10.125" cy="10.125" r="10.125" transform="translate(823.586 618.907)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_103" data-name="Line 103" x2="3.362" transform="translate(819.055 625.048)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_32" data-name="Path 32" d="M30.187,440.6H33.27m-1.541-1.541v3.082" transform="translate(783.138 184.452)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="Ellipse_23" data-name="Ellipse 23" cx="0.457" cy="0.457" r="0.457" transform="translate(834.969 630.65)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="0.75"/>
+    <circle id="Ellipse_24" data-name="Ellipse 24" cx="0.457" cy="0.457" r="0.457" transform="translate(831.336 626.824)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="0.75"/>
+    <line id="Line_104" data-name="Line 104" y1="6.583" x2="6.583" transform="translate(830.336 625.824)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle_76" data-name="Rectangle 76" width="23.542" height="4.417" transform="translate(809.613 607.97)" fill="#1e70b9"/>
+    <text id="DIFFERNCE" transform="translate(810.454 611.391)" fill="#fff" font-size="4.152" font-family="CeraPro-Bold, Cera Pro" font-weight="700"><tspan x="0" y="0">DIFFERNCE</tspan></text>
+    <circle id="Ellipse_59" data-name="Ellipse 59" cx="0.15" cy="0.15" r="0.15" transform="translate(814.643 629.116)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="Ellipse_60" data-name="Ellipse 60" cx="0.15" cy="0.15" r="0.15" transform="translate(814.643 631.884)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_174" data-name="Line 174" x2="3.229" transform="translate(813.178 630.65)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

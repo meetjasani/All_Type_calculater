@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.673" height="34.504" viewBox="0 0 36.673 34.504">
+  <g id="loan_calculator" transform="translate(-815.332 -219.748)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="26.805" height="30.156" rx="3.351" transform="translate(815.832 220.248)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="13.402" height="5.026" rx="1.675" transform="translate(822.533 226.949)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_1" data-name="Line 1" x2="3.362" transform="translate(820.819 238.677)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_2" data-name="Line 2" x2="3.362" transform="translate(827.554 238.693)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_3" data-name="Line 3" x2="3.362" transform="translate(827.554 238.693)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_4" data-name="Line 4" x2="3.362" transform="translate(834.255 238.601)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_5" data-name="Line 5" x2="3.362" transform="translate(820.819 243.702)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_6" data-name="Line 6" x2="3.362" transform="translate(827.554 243.719)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_7" data-name="Line 7" x2="3.362" transform="translate(834.255 243.627)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="10.125" cy="10.125" r="10.125" transform="translate(831.255 233.502)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_1" data-name="Path 1" d="M60.937,56.287a1.924,1.924,0,0,0-1.732-.962H57.279a1.925,1.925,0,0,0,0,3.85h1.926a1.926,1.926,0,0,1,0,3.851H57.279a1.925,1.925,0,0,1-1.732-.963" transform="translate(783.138 184.452)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_2" data-name="Path 2" d="M58.242,53.4v1.926m0,7.7v1.925" transform="translate(783.138 184.452)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

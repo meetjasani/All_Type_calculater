@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.673" height="34.457" viewBox="0 0 36.673 34.457">
+  <g id="grade_calculator" transform="translate(-985.997 -317.824)">
+    <rect id="Rectangle_20" data-name="Rectangle 20" width="26.805" height="30.156" rx="3.351" transform="translate(986.497 318.324)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle_21" data-name="Rectangle 21" width="13.402" height="5.026" rx="1.675" transform="translate(993.198 325.025)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_46" data-name="Line 46" x2="3.362" transform="translate(991.484 336.752)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_47" data-name="Line 47" x2="3.362" transform="translate(998.218 336.769)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_48" data-name="Line 48" x2="3.362" transform="translate(998.218 336.769)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_49" data-name="Line 49" x2="3.362" transform="translate(1004.92 336.676)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_50" data-name="Line 50" x2="3.362" transform="translate(991.484 341.778)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_51" data-name="Line 51" x2="3.362" transform="translate(998.218 341.795)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_52" data-name="Line 52" x2="3.362" transform="translate(1004.92 341.702)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="10.125" cy="10.125" r="10.125" transform="translate(1001.92 331.531)" fill="#fff" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <text id="GPA" transform="translate(1005.901 339.872)" fill="#1e70b9" font-size="6" font-family="Gilroy-ExtraBold, Gilroy ☞" font-weight="800"><tspan x="0" y="0">GPA</tspan></text>
+    <line id="Line_53" data-name="Line 53" x2="19.448" transform="translate(1002.321 342.716)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_54" data-name="Line 54" x2="3.362" transform="translate(1013.151 346.813)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_13" data-name="Path 13" d="M224.284,162.361h3.082m-1.541-1.541V163.9" transform="translate(783.138 184.452)" fill="none" stroke="#1e70b9" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>
